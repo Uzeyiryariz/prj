@@ -440,9 +440,24 @@ li > a:only-child:after { content: ''; }
 /*third section*/
 
 .third{
-    display: flex;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
+  padding-top:    50px;
+  padding-bottom: 50px;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 3rem;
+}
+
+@media (max-width: 800){
+  .third{
+    padding-top:    50px;
+    padding-bottom: 50px;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-row: 1fr 1fr;
+    gap: 3rem;
+  }
 }
 
 .third > article{
