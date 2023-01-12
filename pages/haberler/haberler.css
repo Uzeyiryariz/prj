@@ -261,6 +261,13 @@ main{
     padding-top: 5rem;
     padding-bottom: 5rem;
 }
+
+main > p{
+  margin-left: 3rem;
+  padding-top: 25px;  
+  padding-bottom: 25px;  
+}
+
 main > section{
     display: grid;
     grid-template-areas: 

@@ -263,6 +263,12 @@ main{
   align-items: center;
 }
 
+main > p{
+  margin-left: 3rem;
+  padding-top: 25px;  
+  padding-bottom: 25px;  
+}
+
 /*form sol taraf*/
 .left{
   width: 50%;

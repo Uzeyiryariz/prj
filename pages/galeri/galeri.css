@@ -259,6 +259,11 @@ main{
 }
 
 main > p{
+  padding-top: 25px;  
+  padding-bottom: 25px;  
+}
+
+main > p{
   padding: 0rem 2rem 2rem 2rem;
 }
 
