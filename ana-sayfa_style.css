@@ -426,6 +426,7 @@ li > a:only-child:after { content: ''; }
     margin-bottom: 1.5rem;
     margin-top: 1.5rem;
     transition: 500ms;
+    color: #FFF;
 }
 
 .btn:focus{
@@ -614,7 +615,7 @@ alt kısım
     display: flex;
     gap: 1rem;
     justify-content: center;
-    flex-wrap: wrap;
+     flex-wrap: wrap;
 }
 
 .yorum{
@@ -625,7 +626,7 @@ alt kısım
     gap: 1rem;
     padding: 1rem;
     border-radius: 15px;
-    box-shadow: 2px 2px;
+    box-shadow: 2px 2px 2px black;
 }
 
 .yorum > div{

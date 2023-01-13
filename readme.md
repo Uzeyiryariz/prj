@@ -2,8 +2,16 @@
 
 ## **proje, halen devam etmektedir.**
 
+### proje  ver 0.8 release
+
+- versiyon dengeli hale getirildi
 ### proje ver 0.8 beta
 
+- css tamamlandı
+- linkler bağlandı 
+- içerikler eklemeye hazı bir duruma getirildi
+- ana sayfa güncellendi 
+- animasyonlar eklendi
 - footer değiştirildi 
   - telefona uyumlu hale getirildi
 - navbar değiştirildi
