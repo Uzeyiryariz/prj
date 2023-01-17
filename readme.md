@@ -4,6 +4,7 @@
 
 ### proje  ver 0.8 release
 
+- daha da fazlasına !
 - versiyon dengeli hale getirildi
 ### proje ver 0.8 beta
 
